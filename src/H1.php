@@ -1,5 +1,5 @@
 <?php
-namespace Sillevl\Lib\Html;
+namespace Sillevl\Html;
 
 class H1 extends Element
 {

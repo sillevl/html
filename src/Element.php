@@ -1,6 +1,6 @@
 <?php
 
-namespace Sillevl\Lib\Html;
+namespace Sillevl\Html;
 
 class Element
 {
