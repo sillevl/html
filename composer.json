@@ -1,0 +1,11 @@
+{
+    "name": "sillevl/html",
+    "description": "Demo HTML library with composer packages",
+    "authors": [
+        {
+            "name": "Sille Van Landschoot",
+            "email": "info@sillevl.be"
+        }
+    ],
+    "require": {}
+}
